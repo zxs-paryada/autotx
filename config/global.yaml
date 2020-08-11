@@ -1,9 +1,9 @@
-hsn_client_path: /home/xzjianyu/goproject/src/github.com/hyperspeednetwork/hsnhub_test/build/hsncli
-hsn_server_path: /home/xzjianyu/goproject/src/github.com/hyperspeednetwork/hsnhub_test/build/hsnd
-hsn_local_account_path: /home/xzjianyu/goproject/src/github.com/hyperspeednetwork/hsnhub_test
+hsn_client_path: /home/ubuntu/workplace/hschain/build/hsncli
+hsn_server_path: /home/ubuntu/workplace/hschain/build/hsnd
+hsn_local_account_path: /home/ubuntu/hsnhub_test
 chain_id: hsn
 unsign_dir: 
 broadcasted_tx_dir: 
-node_lcd_server: http://172.38.8.89:1317
-node_rpc_server: http://172.38.8.89:26657
+node_lcd_server: http://172.16.0.60:1317
+node_rpc_server: http://172.16.0.60:26657
 local_accounts_path: 
